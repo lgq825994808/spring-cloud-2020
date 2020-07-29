@@ -23,6 +23,11 @@
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
         </dependency>
         <!--公共数据包-->
+        <!--<dependency>
+            <groupId>com.adb.springcloud</groupId>
+            <artifactId>cloud-api-commons</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>-->
         <dependency>
             <groupId>com.adb.springcloud</groupId>
             <artifactId>cloud-api-commons</artifactId>
@@ -58,4 +63,5 @@
             <artifactId>fastjson</artifactId>
         </dependency>
     </dependencies>
+
 </project>
